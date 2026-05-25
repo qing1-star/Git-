@@ -1,1 +1,2 @@
 git学习笔记
+git status 查看状态
